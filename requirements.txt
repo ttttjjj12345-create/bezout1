@@ -1,0 +1,6 @@
+streamlit
+sympy
+numpy
+control
+google-generativeai
+Pillow
